@@ -1,0 +1,29 @@
+.div-container {
+  display: flex;
+  flex-direction: row;
+  padding: 5px 10px;
+}
+
+
+.person-object {
+  margin-right: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 200px;
+  padding: 5px;
+}
+
+/* img {
+  width: 50px !important;
+  height: 50px !important;
+  border-radius: 100%;
+}
+
+h3 {
+  font-size: smaller;
+  margin: 10px 10px 10px 0;
+}
+
+p {
+  font-size: 10px;
+} */
